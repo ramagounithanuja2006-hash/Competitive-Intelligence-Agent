@@ -1,0 +1,9 @@
+{
+  "name":"competitive-intelligence-agent",
+  "private":true,
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{"dev":"vite","build":"vite","preview":"vite"},
+  "dependencies":{"@tailwindcss/vite":"latest","axios":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","recharts":"latest","tailwindcss":"latest","three":"latest"},
+  "devDependencies":{"@vitejs/plugin-react":"latest","vite":"latest"}
+}

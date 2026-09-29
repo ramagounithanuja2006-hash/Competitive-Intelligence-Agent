@@ -1,0 +1,1 @@
+export default function Button({children,...props}){return <button {...props} className="rounded-xl bg-cyan-600 px-5 py-3 text-sm font-bold text-white hover:bg-cyan-700 transition">{children}</button>}

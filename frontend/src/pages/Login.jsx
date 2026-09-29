@@ -1,0 +1,1 @@
+import LoginForm from "../components/auth/LoginForm";export default function Login(){return <main className="min-h-screen grid place-items-center bg-[radial-gradient(circle_at_top_right,#cffafe,transparent_35%),#f4f7fb] p-5"><LoginForm/></main>}

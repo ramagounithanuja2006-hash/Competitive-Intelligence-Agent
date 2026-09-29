@@ -1,0 +1,1 @@
+import {api} from "./api";export const getCompetitors=()=>api.get("/competitors/");

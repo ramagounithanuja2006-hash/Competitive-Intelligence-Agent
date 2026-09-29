@@ -1,0 +1,1 @@
+import DashboardLayout from "../../components/layout/DashboardLayout";import Card from "../../components/common/Card";export default function SystemActivity(){return <DashboardLayout title="System Activity"><Card className="p-6"><h2 className="text-xl font-black">System Activity</h2></Card></DashboardLayout>}

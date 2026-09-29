@@ -1,0 +1,1 @@
+import {api} from "./api";export const analyze=data=>api.post("/ai-analysis",data);

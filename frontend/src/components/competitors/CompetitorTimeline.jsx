@@ -1,0 +1,1 @@
+import Card from "../common/Card";export default function CompetitorTimeline(){return <Card className="p-5"><b>Competitor timeline</b><p className="text-sm text-slate-500 mt-2">Recent market signals will appear here.</p></Card>}

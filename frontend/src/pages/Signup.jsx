@@ -1,0 +1,1 @@
+import SignupForm from "../components/auth/SignupForm";export default function Signup(){return <main className="min-h-screen grid place-items-center bg-[radial-gradient(circle_at_top_left,#dbeafe,transparent_35%),#f4f7fb] p-5"><SignupForm/></main>}

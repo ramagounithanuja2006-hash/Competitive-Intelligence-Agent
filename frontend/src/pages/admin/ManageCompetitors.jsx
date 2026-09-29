@@ -1,0 +1,1 @@
+import DashboardLayout from "../../components/layout/DashboardLayout";import Card from "../../components/common/Card";export default function ManageCompetitors(){return <DashboardLayout title="Manage Competitors"><Card className="p-6"><h2 className="text-xl font-black">Manage Competitors</h2></Card></DashboardLayout>}

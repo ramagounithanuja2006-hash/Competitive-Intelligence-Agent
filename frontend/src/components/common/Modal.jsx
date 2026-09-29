@@ -1,0 +1,1 @@
+export default function Modal({children,onClose}){return <div className="fixed inset-0 z-50 bg-slate-900/40 grid place-items-center p-4"><div className="bg-white rounded-2xl p-6 max-w-lg w-full">{children}<button onClick={onClose} className="mt-4 text-sm text-slate-500">Close</button></div></div>}

@@ -1,0 +1,1 @@
+import DashboardLayout from "../../components/layout/DashboardLayout";import Card from "../../components/common/Card";export default function ManageUsers(){return <DashboardLayout title="Manage Users"><Card className="p-6"><h2 className="text-xl font-black">Manage Users</h2></Card></DashboardLayout>}

@@ -1,0 +1,1 @@
+import Card from "../common/Card";export default function MemoryPanel(){return <Card className="p-5"><b>Agent Memory</b><p className="text-sm text-slate-500 mt-2">Hindsight Cloud memory will appear here after integration.</p></Card>}

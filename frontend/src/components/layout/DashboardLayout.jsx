@@ -1,0 +1,1 @@
+import Sidebar from "./Sidebar";import Header from "./Header";export default function DashboardLayout({children,title}){return <div className="min-h-screen bg-[#f4f7fb] flex"><Sidebar/><main className="flex-1 p-5 md:p-8"><Header title={title}/>{children}</main></div>}

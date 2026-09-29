@@ -1,0 +1,1 @@
+export default function Loader(){return <div className="animate-pulse text-sm text-slate-400">Loading intelligence...</div>}
